@@ -1,0 +1,6 @@
+2025-Jan-06-17-55-45, Extract : start
+2025-Jan-06-17-55-46, Extract : end
+2025-Jan-06-17-55-46, Transform : start
+2025-Jan-06-17-55-46, Transform : end
+2025-Jan-06-17-55-46, Load : start
+2025-Jan-06-17-55-46, Load : end
