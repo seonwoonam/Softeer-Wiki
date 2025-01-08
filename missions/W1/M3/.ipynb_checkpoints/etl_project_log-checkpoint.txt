@@ -1,0 +1,8 @@
+2025-Jan-07-16-25-22, Extract started
+2025-Jan-07-16-25-22, Extract completed
+2025-Jan-07-16-25-22, Transform started
+2025-Jan-07-16-25-22, Transform completed
+2025-Jan-07-16-25-22, Load started
+2025-Jan-07-16-25-22, Load completed
+===============================================
+

@@ -1,1262 +1,1052 @@
 {
     "0":{
-        "Rank":0,
         "Country":"World",
-        "GDP_USD_billion":115494.31,
+        "GDP_USD_million":"115,494,312",
         "Year":"2025"
     },
     "1":{
-        "Rank":1,
         "Country":"United States",
-        "GDP_USD_billion":30337.16,
+        "GDP_USD_million":"30,337,162",
         "Year":"2025"
     },
     "2":{
-        "Rank":2,
         "Country":"China",
-        "GDP_USD_billion":19534.89,
+        "GDP_USD_million":"19,534,894",
         "Year":"2025"
     },
     "3":{
-        "Rank":3,
         "Country":"Germany",
-        "GDP_USD_billion":4921.56,
+        "GDP_USD_million":"4,921,563",
         "Year":"2025"
     },
     "4":{
-        "Rank":4,
         "Country":"Japan",
-        "GDP_USD_billion":4389.33,
+        "GDP_USD_million":"4,389,326",
         "Year":"2025"
     },
     "5":{
-        "Rank":5,
         "Country":"India",
-        "GDP_USD_billion":4271.92,
+        "GDP_USD_million":"4,271,922",
         "Year":"2025"
     },
     "6":{
-        "Rank":6,
         "Country":"United Kingdom",
-        "GDP_USD_billion":3730.26,
+        "GDP_USD_million":"3,730,261",
         "Year":"2025"
     },
     "7":{
-        "Rank":7,
         "Country":"France",
-        "GDP_USD_billion":3283.43,
+        "GDP_USD_million":"3,283,429",
         "Year":"2025"
     },
     "8":{
-        "Rank":8,
         "Country":"Italy",
-        "GDP_USD_billion":2459.6,
+        "GDP_USD_million":"2,459,597",
         "Year":"2025"
     },
     "9":{
-        "Rank":9,
         "Country":"Canada",
-        "GDP_USD_billion":2330.31,
+        "GDP_USD_million":"2,330,308",
         "Year":"2025"
     },
     "10":{
-        "Rank":10,
         "Country":"Brazil",
-        "GDP_USD_billion":2307.16,
+        "GDP_USD_million":"2,307,162",
         "Year":"2025"
     },
     "11":{
-        "Rank":11,
         "Country":"Russia",
-        "GDP_USD_billion":2195.71,
+        "GDP_USD_million":"2,195,708",
         "Year":"2025"
     },
     "12":{
-        "Rank":12,
         "Country":"South Korea",
-        "GDP_USD_billion":1947.13,
+        "GDP_USD_million":"1,947,133",
         "Year":"2025"
     },
     "13":{
-        "Rank":13,
         "Country":"Australia",
-        "GDP_USD_billion":1881.14,
+        "GDP_USD_million":"1,881,140",
         "Year":"2025"
     },
     "14":{
-        "Rank":14,
         "Country":"Spain",
-        "GDP_USD_billion":1827.58,
+        "GDP_USD_million":"1,827,576",
         "Year":"2025"
     },
     "15":{
-        "Rank":15,
         "Country":"Mexico",
-        "GDP_USD_billion":1817.82,
+        "GDP_USD_million":"1,817,818",
         "Year":"2025"
     },
     "16":{
-        "Rank":16,
         "Country":"Indonesia",
-        "GDP_USD_billion":1492.62,
+        "GDP_USD_million":"1,492,618",
         "Year":"2025"
     },
     "17":{
-        "Rank":17,
         "Country":"Turkey",
-        "GDP_USD_billion":1455.41,
+        "GDP_USD_million":"1,455,413",
         "Year":"2025"
     },
     "18":{
-        "Rank":18,
         "Country":"Netherlands",
-        "GDP_USD_billion":1272.96,
+        "GDP_USD_million":"1,272,960",
         "Year":"2025"
     },
     "19":{
-        "Rank":19,
         "Country":"Saudi Arabia",
-        "GDP_USD_billion":1136.58,
+        "GDP_USD_million":"1,136,580",
         "Year":"2025"
     },
     "20":{
-        "Rank":20,
         "Country":"Switzerland",
-        "GDP_USD_billion":999.6,
+        "GDP_USD_million":"999,604",
         "Year":"2025"
     },
     "21":{
-        "Rank":21,
         "Country":"Poland",
-        "GDP_USD_billion":915.45,
+        "GDP_USD_million":"915,451",
         "Year":"2025"
     },
     "22":{
-        "Rank":22,
         "Country":"Taiwan",
-        "GDP_USD_billion":814.44,
+        "GDP_USD_million":"814,438",
         "Year":"2025"
     },
     "23":{
-        "Rank":23,
         "Country":"Belgium",
-        "GDP_USD_billion":689.36,
+        "GDP_USD_million":"689,364",
         "Year":"2025"
     },
     "24":{
-        "Rank":24,
         "Country":"Sweden",
-        "GDP_USD_billion":638.78,
+        "GDP_USD_million":"638,780",
         "Year":"2025"
     },
     "25":{
-        "Rank":25,
         "Country":"Ireland",
-        "GDP_USD_billion":587.22,
+        "GDP_USD_million":"587,225",
         "Year":"2025"
     },
     "26":{
-        "Rank":26,
         "Country":"Argentina",
-        "GDP_USD_billion":574.2,
+        "GDP_USD_million":"574,201",
         "Year":"2025"
     },
     "27":{
-        "Rank":27,
         "Country":"United Arab Emirates",
-        "GDP_USD_billion":568.57,
+        "GDP_USD_million":"568,567",
         "Year":"2025"
     },
     "28":{
-        "Rank":28,
         "Country":"Singapore",
-        "GDP_USD_billion":561.72,
+        "GDP_USD_million":"561,725",
         "Year":"2025"
     },
     "29":{
-        "Rank":29,
         "Country":"Austria",
-        "GDP_USD_billion":559.22,
+        "GDP_USD_million":"559,218",
         "Year":"2025"
     },
     "30":{
-        "Rank":30,
         "Country":"Israel",
-        "GDP_USD_billion":550.9,
+        "GDP_USD_million":"550,905",
         "Year":"2025"
     },
     "31":{
-        "Rank":31,
         "Country":"Thailand",
-        "GDP_USD_billion":545.34,
+        "GDP_USD_million":"545,341",
         "Year":"2025"
     },
     "32":{
-        "Rank":32,
         "Country":"Norway",
-        "GDP_USD_billion":503.47,
+        "GDP_USD_million":"503,466",
         "Year":"2025"
     },
     "33":{
-        "Rank":33,
         "Country":"Malaysia",
-        "GDP_USD_billion":488.25,
+        "GDP_USD_million":"488,250",
         "Year":"2025"
     },
     "34":{
-        "Rank":34,
         "Country":"Philippines",
-        "GDP_USD_billion":471.52,
+        "GDP_USD_million":"471,516",
         "Year":"2025"
     },
     "35":{
-        "Rank":35,
         "Country":"Vietnam",
-        "GDP_USD_billion":468.4,
+        "GDP_USD_million":"468,400",
         "Year":"2025"
     },
     "36":{
-        "Rank":36,
         "Country":"Iran",
-        "GDP_USD_billion":463.75,
+        "GDP_USD_million":"463,747",
         "Year":"2025"
     },
     "37":{
-        "Rank":37,
         "Country":"Bangladesh",
-        "GDP_USD_billion":451.86,
+        "GDP_USD_million":"451,856",
         "Year":"2025"
     },
     "38":{
-        "Rank":38,
         "Country":"Denmark",
-        "GDP_USD_billion":431.23,
+        "GDP_USD_million":"431,228",
         "Year":"2025"
     },
     "39":{
-        "Rank":39,
         "Country":"Hong Kong",
-        "GDP_USD_billion":422.06,
+        "GDP_USD_million":"422,057",
         "Year":"2025"
     },
     "40":{
-        "Rank":40,
         "Country":"Colombia",
-        "GDP_USD_billion":419.33,
+        "GDP_USD_million":"419,331",
         "Year":"2025"
     },
     "41":{
-        "Rank":41,
         "Country":"South Africa",
-        "GDP_USD_billion":418.05,
+        "GDP_USD_million":"418,046",
         "Year":"2025"
     },
     "42":{
-        "Rank":42,
         "Country":"Romania",
-        "GDP_USD_billion":406.2,
+        "GDP_USD_million":"406,202",
         "Year":"2025"
     },
     "43":{
-        "Rank":43,
         "Country":"Egypt",
-        "GDP_USD_billion":380.04,
+        "GDP_USD_million":"380,044",
         "Year":"2025"
     },
     "44":{
-        "Rank":44,
         "Country":"Pakistan",
-        "GDP_USD_billion":374.6,
+        "GDP_USD_million":"374,595",
         "Year":"2024"
     },
     "45":{
-        "Rank":45,
         "Country":"Chile",
-        "GDP_USD_billion":362.24,
+        "GDP_USD_million":"362,240",
         "Year":"2025"
     },
     "46":{
-        "Rank":46,
         "Country":"Czech Republic",
-        "GDP_USD_billion":360.23,
+        "GDP_USD_million":"360,233",
         "Year":"2025"
     },
     "47":{
-        "Rank":47,
         "Country":"Finland",
-        "GDP_USD_billion":319.99,
+        "GDP_USD_million":"319,989",
         "Year":"2025"
     },
     "48":{
-        "Rank":48,
         "Country":"Portugal",
-        "GDP_USD_billion":319.93,
+        "GDP_USD_million":"319,934",
         "Year":"2025"
     },
     "49":{
-        "Rank":49,
         "Country":"Kazakhstan",
-        "GDP_USD_billion":306.63,
+        "GDP_USD_million":"306,629",
         "Year":"2025"
     },
     "50":{
-        "Rank":50,
         "Country":"Peru",
-        "GDP_USD_billion":294.9,
+        "GDP_USD_million":"294,898",
         "Year":"2025"
     },
     "51":{
-        "Rank":51,
         "Country":"Iraq",
-        "GDP_USD_billion":270.87,
+        "GDP_USD_million":"270,874",
         "Year":"2025"
     },
     "52":{
-        "Rank":52,
         "Country":"Greece",
-        "GDP_USD_billion":265.17,
+        "GDP_USD_million":"265,171",
         "Year":"2025"
     },
     "53":{
-        "Rank":53,
         "Country":"Algeria",
-        "GDP_USD_billion":264.27,
+        "GDP_USD_million":"264,270",
         "Year":"2025"
     },
     "54":{
-        "Rank":54,
         "Country":"New Zealand",
-        "GDP_USD_billion":262.92,
+        "GDP_USD_million":"262,924",
         "Year":"2025"
     },
     "55":{
-        "Rank":55,
         "Country":"Hungary",
-        "GDP_USD_billion":245.62,
+        "GDP_USD_million":"245,619",
         "Year":"2025"
     },
     "56":{
-        "Rank":56,
         "Country":"Qatar",
-        "GDP_USD_billion":226.22,
+        "GDP_USD_million":"226,217",
         "Year":"2025"
     },
     "57":{
-        "Rank":57,
         "Country":"Nigeria",
-        "GDP_USD_billion":194.96,
+        "GDP_USD_million":"194,955",
         "Year":"2025"
     },
     "58":{
-        "Rank":58,
         "Country":"Ukraine",
-        "GDP_USD_billion":189.83,
+        "GDP_USD_million":"189,827",
         "Year":"2025"
     },
     "59":{
-        "Rank":59,
         "Country":"Morocco",
-        "GDP_USD_billion":168.6,
+        "GDP_USD_million":"168,597",
         "Year":"2025"
     },
     "60":{
-        "Rank":60,
         "Country":"Kuwait",
-        "GDP_USD_billion":161.95,
+        "GDP_USD_million":"161,950",
         "Year":"2025"
     },
     "61":{
-        "Rank":61,
         "Country":"Cuba",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "62":{
-        "Rank":61,
         "Country":"Ethiopia",
-        "GDP_USD_billion":145.03,
+        "GDP_USD_million":"145,031",
         "Year":"2024"
     },
     "63":{
-        "Rank":62,
         "Country":"Slovakia",
-        "GDP_USD_billion":142.62,
+        "GDP_USD_million":"142,617",
         "Year":"2024"
     },
     "64":{
-        "Rank":63,
         "Country":"Dominican Republic",
-        "GDP_USD_billion":126.24,
+        "GDP_USD_million":"126,238",
         "Year":"2024"
     },
     "65":{
-        "Rank":64,
         "Country":"Ecuador",
-        "GDP_USD_billion":121.42,
+        "GDP_USD_million":"121,425",
         "Year":"2024"
     },
     "66":{
-        "Rank":65,
         "Country":"Puerto Rico",
-        "GDP_USD_billion":120.97,
+        "GDP_USD_million":"120,971",
         "Year":"2024"
     },
     "67":{
-        "Rank":66,
         "Country":"Kenya",
-        "GDP_USD_billion":116.32,
+        "GDP_USD_million":"116,321",
         "Year":"2024"
     },
     "68":{
-        "Rank":67,
         "Country":"Angola",
-        "GDP_USD_billion":113.29,
+        "GDP_USD_million":"113,286",
         "Year":"2024"
     },
     "69":{
-        "Rank":68,
         "Country":"Uzbekistan",
-        "GDP_USD_billion":112.65,
+        "GDP_USD_million":"112,653",
         "Year":"2024"
     },
     "70":{
-        "Rank":69,
         "Country":"Guatemala",
-        "GDP_USD_billion":112.37,
+        "GDP_USD_million":"112,369",
         "Year":"2024"
     },
     "71":{
-        "Rank":70,
         "Country":"Oman",
-        "GDP_USD_billion":109.99,
+        "GDP_USD_million":"109,993",
         "Year":"2024"
     },
     "72":{
-        "Rank":71,
         "Country":"Bulgaria",
-        "GDP_USD_billion":108.42,
+        "GDP_USD_million":"108,425",
         "Year":"2024"
     },
     "73":{
-        "Rank":72,
         "Country":"Venezuela",
-        "GDP_USD_billion":106.33,
+        "GDP_USD_million":"106,327",
         "Year":"2024"
     },
     "74":{
-        "Rank":73,
         "Country":"Costa Rica",
-        "GDP_USD_billion":95.15,
+        "GDP_USD_million":"95,149",
         "Year":"2024"
     },
     "75":{
-        "Rank":74,
         "Country":"Luxembourg",
-        "GDP_USD_billion":91.21,
+        "GDP_USD_million":"91,210",
         "Year":"2024"
     },
     "76":{
-        "Rank":75,
         "Country":"Croatia",
-        "GDP_USD_billion":89.66,
+        "GDP_USD_million":"89,665",
         "Year":"2024"
     },
     "77":{
-        "Rank":76,
         "Country":"Panama",
-        "GDP_USD_billion":87.35,
+        "GDP_USD_million":"87,347",
         "Year":"2024"
     },
     "78":{
-        "Rank":77,
         "Country":"Ivory Coast",
-        "GDP_USD_billion":86.99,
+        "GDP_USD_million":"86,993",
         "Year":"2024"
     },
     "79":{
-        "Rank":78,
         "Country":"Sri Lanka",
-        "GDP_USD_billion":74.85,
+        "GDP_USD_million":"74,846",
         "Year":"2022"
     },
     "80":{
-        "Rank":79,
         "Country":"Turkmenistan",
-        "GDP_USD_billion":83.88,
+        "GDP_USD_million":"83,883",
         "Year":"2024"
     },
     "81":{
-        "Rank":80,
         "Country":"Lithuania",
-        "GDP_USD_billion":82.79,
+        "GDP_USD_million":"82,789",
         "Year":"2024"
     },
     "82":{
-        "Rank":81,
         "Country":"Uruguay",
-        "GDP_USD_billion":82.6,
+        "GDP_USD_million":"82,605",
         "Year":"2024"
     },
     "83":{
-        "Rank":82,
         "Country":"Serbia",
-        "GDP_USD_billion":82.55,
+        "GDP_USD_million":"82,550",
         "Year":"2024"
     },
     "84":{
-        "Rank":83,
         "Country":"Tanzania",
-        "GDP_USD_billion":79.87,
+        "GDP_USD_million":"79,867",
         "Year":"2024"
     },
     "85":{
-        "Rank":84,
         "Country":"Azerbaijan",
-        "GDP_USD_billion":75.65,
+        "GDP_USD_million":"75,649",
         "Year":"2024"
     },
     "86":{
-        "Rank":85,
         "Country":"Ghana",
-        "GDP_USD_billion":75.31,
+        "GDP_USD_million":"75,307",
         "Year":"2024"
     },
     "87":{
-        "Rank":86,
         "Country":"Slovenia",
-        "GDP_USD_billion":73.2,
+        "GDP_USD_million":"73,198",
         "Year":"2024"
     },
     "88":{
-        "Rank":87,
         "Country":"Belarus",
-        "GDP_USD_billion":73.13,
+        "GDP_USD_million":"73,129",
         "Year":"2024"
     },
     "89":{
-        "Rank":88,
         "Country":"DR Congo",
-        "GDP_USD_billion":72.48,
+        "GDP_USD_million":"72,483",
         "Year":"2024"
     },
     "90":{
-        "Rank":89,
         "Country":"Myanmar",
-        "GDP_USD_billion":64.28,
+        "GDP_USD_million":"64,284",
         "Year":"2024"
     },
     "91":{
-        "Rank":90,
         "Country":"Uganda",
-        "GDP_USD_billion":55.59,
+        "GDP_USD_million":"55,587",
         "Year":"2024"
     },
     "92":{
-        "Rank":91,
         "Country":"Macau",
-        "GDP_USD_billion":53.45,
+        "GDP_USD_million":"53,447",
         "Year":"2024"
     },
     "93":{
-        "Rank":92,
         "Country":"Cameroon",
-        "GDP_USD_billion":53.39,
+        "GDP_USD_million":"53,391",
         "Year":"2024"
     },
     "94":{
-        "Rank":93,
         "Country":"Jordan",
-        "GDP_USD_billion":53.3,
+        "GDP_USD_million":"53,305",
         "Year":"2024"
     },
     "95":{
-        "Rank":94,
         "Country":"Tunisia",
-        "GDP_USD_billion":52.64,
+        "GDP_USD_million":"52,636",
         "Year":"2024"
     },
     "96":{
-        "Rank":95,
         "Country":"Bolivia",
-        "GDP_USD_billion":48.17,
+        "GDP_USD_million":"48,172",
         "Year":"2024"
     },
     "97":{
-        "Rank":96,
         "Country":"Bahrain",
-        "GDP_USD_billion":47.81,
+        "GDP_USD_million":"47,812",
         "Year":"2024"
     },
     "98":{
-        "Rank":97,
         "Country":"Cambodia",
-        "GDP_USD_billion":47.15,
+        "GDP_USD_million":"47,147",
         "Year":"2024"
     },
     "99":{
-        "Rank":98,
         "Country":"Latvia",
-        "GDP_USD_billion":45.52,
+        "GDP_USD_million":"45,521",
         "Year":"2024"
     },
     "100":{
-        "Rank":99,
         "Country":"Paraguay",
-        "GDP_USD_billion":44.94,
+        "GDP_USD_million":"44,937",
         "Year":"2024"
     },
     "101":{
-        "Rank":100,
         "Country":"Libya",
-        "GDP_USD_billion":44.81,
+        "GDP_USD_million":"44,812",
         "Year":"2024"
     },
     "102":{
-        "Rank":101,
         "Country":"Nepal",
-        "GDP_USD_billion":43.67,
+        "GDP_USD_million":"43,673",
         "Year":"2024"
     },
     "103":{
-        "Rank":102,
         "Country":"Estonia",
-        "GDP_USD_billion":43.04,
+        "GDP_USD_million":"43,044",
         "Year":"2024"
     },
     "104":{
-        "Rank":103,
         "Country":"Honduras",
-        "GDP_USD_billion":36.74,
+        "GDP_USD_million":"36,735",
         "Year":"2024"
     },
     "105":{
-        "Rank":104,
         "Country":"Zimbabwe",
-        "GDP_USD_billion":35.92,
+        "GDP_USD_million":"35,919",
         "Year":"2024"
     },
     "106":{
-        "Rank":105,
         "Country":"El Salvador",
-        "GDP_USD_billion":35.85,
+        "GDP_USD_million":"35,848",
         "Year":"2024"
     },
     "107":{
-        "Rank":106,
         "Country":"Cyprus",
-        "GDP_USD_billion":34.79,
+        "GDP_USD_million":"34,790",
         "Year":"2024"
     },
     "108":{
-        "Rank":107,
         "Country":"Senegal",
-        "GDP_USD_billion":33.68,
+        "GDP_USD_million":"33,685",
         "Year":"2024"
     },
     "109":{
-        "Rank":108,
         "Country":"Georgia",
-        "GDP_USD_billion":33.19,
+        "GDP_USD_million":"33,191",
         "Year":"2024"
     },
     "110":{
-        "Rank":109,
         "Country":"Iceland",
-        "GDP_USD_billion":32.92,
+        "GDP_USD_million":"32,919",
         "Year":"2024"
     },
     "111":{
-        "Rank":110,
         "Country":"Papua New Guinea",
-        "GDP_USD_billion":31.72,
+        "GDP_USD_million":"31,716",
         "Year":"2024"
     },
     "112":{
-        "Rank":111,
         "Country":"Zambia",
-        "GDP_USD_billion":29.87,
+        "GDP_USD_million":"29,872",
         "Year":"2024"
     },
     "113":{
-        "Rank":112,
         "Country":"Bosnia and Herzegovina",
-        "GDP_USD_billion":29.08,
+        "GDP_USD_million":"29,078",
         "Year":"2024"
     },
     "114":{
-        "Rank":113,
         "Country":"Trinidad and Tobago",
-        "GDP_USD_billion":28.36,
+        "GDP_USD_million":"28,365",
         "Year":"2024"
     },
     "115":{
-        "Rank":114,
         "Country":"Sudan",
-        "GDP_USD_billion":26.86,
+        "GDP_USD_million":"26,865",
         "Year":"2024"
     },
     "116":{
-        "Rank":115,
         "Country":"Guinea",
-        "GDP_USD_billion":25.45,
+        "GDP_USD_million":"25,447",
         "Year":"2024"
     },
     "117":{
-        "Rank":116,
         "Country":"Albania",
-        "GDP_USD_billion":25.43,
+        "GDP_USD_million":"25,431",
         "Year":"2024"
     },
     "118":{
-        "Rank":117,
         "Country":"Armenia",
-        "GDP_USD_billion":25.41,
+        "GDP_USD_million":"25,408",
         "Year":"2024"
     },
     "119":{
-        "Rank":118,
         "Country":"Haiti",
-        "GDP_USD_billion":24.05,
+        "GDP_USD_million":"24,046",
         "Year":"2024"
     },
     "120":{
-        "Rank":119,
         "Country":"Mozambique",
-        "GDP_USD_billion":22.98,
+        "GDP_USD_million":"22,975",
         "Year":"2024"
     },
     "121":{
-        "Rank":120,
         "Country":"Malta",
-        "GDP_USD_billion":22.74,
+        "GDP_USD_million":"22,737",
         "Year":"2024"
     },
     "122":{
-        "Rank":121,
         "Country":"Mongolia",
-        "GDP_USD_billion":21.94,
+        "GDP_USD_million":"21,943",
         "Year":"2024"
     },
     "123":{
-        "Rank":122,
         "Country":"Burkina Faso",
-        "GDP_USD_billion":21.9,
+        "GDP_USD_million":"21,902",
         "Year":"2024"
     },
     "124":{
-        "Rank":123,
         "Country":"Mali",
-        "GDP_USD_billion":21.66,
+        "GDP_USD_million":"21,662",
         "Year":"2024"
     },
     "125":{
-        "Rank":124,
         "Country":"Botswana",
-        "GDP_USD_billion":21.42,
+        "GDP_USD_million":"21,418",
         "Year":"2024"
     },
     "126":{
-        "Rank":125,
         "Country":"Benin",
-        "GDP_USD_billion":21.37,
+        "GDP_USD_million":"21,371",
         "Year":"2024"
     },
     "127":{
-        "Rank":126,
         "Country":"Guyana",
-        "GDP_USD_billion":21.18,
+        "GDP_USD_million":"21,178",
         "Year":"2024"
     },
     "128":{
-        "Rank":127,
         "Country":"Gabon",
-        "GDP_USD_billion":21.01,
+        "GDP_USD_million":"21,013",
         "Year":"2024"
     },
     "129":{
-        "Rank":128,
         "Country":"Jamaica",
-        "GDP_USD_billion":20.1,
+        "GDP_USD_million":"20,098",
         "Year":"2024"
     },
     "130":{
-        "Rank":129,
         "Country":"Nicaragua",
-        "GDP_USD_billion":18.83,
+        "GDP_USD_million":"18,829",
         "Year":"2024"
     },
     "131":{
-        "Rank":130,
         "Country":"Niger",
-        "GDP_USD_billion":18.82,
+        "GDP_USD_million":"18,816",
         "Year":"2024"
     },
     "132":{
-        "Rank":131,
         "Country":"Chad",
-        "GDP_USD_billion":18.7,
+        "GDP_USD_million":"18,697",
         "Year":"2024"
     },
     "133":{
-        "Rank":132,
         "Country":"Palestine",
-        "GDP_USD_billion":18.6,
+        "GDP_USD_million":"18,602",
         "Year":"2023"
     },
     "134":{
-        "Rank":133,
         "Country":"Syria",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "135":{
-        "Rank":133,
         "Country":"Moldova",
-        "GDP_USD_billion":18.36,
+        "GDP_USD_million":"18,356",
         "Year":"2024"
     },
     "136":{
-        "Rank":134,
         "Country":"Lebanon",
-        "GDP_USD_billion":21.78,
+        "GDP_USD_million":"21,780",
         "Year":"2022"
     },
     "137":{
-        "Rank":135,
         "Country":"Yemen",
-        "GDP_USD_billion":16.94,
+        "GDP_USD_million":"16,940",
         "Year":"2024"
     },
     "138":{
-        "Rank":136,
         "Country":"Madagascar",
-        "GDP_USD_billion":16.46,
+        "GDP_USD_million":"16,465",
         "Year":"2024"
     },
     "139":{
-        "Rank":137,
         "Country":"Mauritius",
-        "GDP_USD_billion":16.36,
+        "GDP_USD_million":"16,359",
         "Year":"2024"
     },
     "140":{
-        "Rank":138,
         "Country":"North Macedonia",
-        "GDP_USD_billion":15.87,
+        "GDP_USD_million":"15,873",
         "Year":"2024"
     },
     "141":{
-        "Rank":139,
         "Country":"Kyrgyzstan",
-        "GDP_USD_billion":15.77,
+        "GDP_USD_million":"15,770",
         "Year":"2024"
     },
     "142":{
-        "Rank":140,
         "Country":"Brunei",
-        "GDP_USD_billion":15.51,
+        "GDP_USD_million":"15,510",
         "Year":"2024"
     },
     "143":{
-        "Rank":141,
         "Country":"Congo",
-        "GDP_USD_billion":15.5,
+        "GDP_USD_million":"15,501",
         "Year":"2024"
     },
     "144":{
-        "Rank":142,
         "Country":"Laos",
-        "GDP_USD_billion":15.19,
+        "GDP_USD_million":"15,190",
         "Year":"2024"
     },
     "145":{
-        "Rank":143,
         "Country":"North Korea",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "146":{
-        "Rank":143,
         "Country":"Afghanistan",
-        "GDP_USD_billion":14.47,
+        "GDP_USD_million":"14,467",
         "Year":"2022"
     },
     "147":{
-        "Rank":144,
         "Country":"Bahamas",
-        "GDP_USD_billion":14.39,
+        "GDP_USD_million":"14,390",
         "Year":"2024"
     },
     "148":{
-        "Rank":145,
         "Country":"Rwanda",
-        "GDP_USD_billion":13.7,
+        "GDP_USD_million":"13,701",
         "Year":"2024"
     },
     "149":{
-        "Rank":146,
         "Country":"Tajikistan",
-        "GDP_USD_billion":13.0,
+        "GDP_USD_million":"13,000",
         "Year":"2024"
     },
     "150":{
-        "Rank":147,
         "Country":"Somalia",
-        "GDP_USD_billion":12.8,
+        "GDP_USD_million":"12,804",
         "Year":"2024"
     },
     "151":{
-        "Rank":148,
         "Country":"Namibia",
-        "GDP_USD_billion":12.76,
+        "GDP_USD_million":"12,765",
         "Year":"2024"
     },
     "152":{
-        "Rank":149,
         "Country":"Kosovo",
-        "GDP_USD_billion":11.32,
+        "GDP_USD_million":"11,318",
         "Year":"2024"
     },
     "153":{
-        "Rank":150,
         "Country":"Malawi",
-        "GDP_USD_billion":11.24,
+        "GDP_USD_million":"11,241",
         "Year":"2024"
     },
     "154":{
-        "Rank":151,
         "Country":"Equatorial Guinea",
-        "GDP_USD_billion":10.71,
+        "GDP_USD_million":"10,708",
         "Year":"2024"
     },
     "155":{
-        "Rank":152,
         "Country":"Mauritania",
-        "GDP_USD_billion":10.63,
+        "GDP_USD_million":"10,628",
         "Year":"2024"
     },
     "156":{
-        "Rank":153,
         "Country":"Togo",
-        "GDP_USD_billion":9.83,
+        "GDP_USD_million":"9,832",
         "Year":"2024"
     },
     "157":{
-        "Rank":154,
         "Country":"New Caledonia",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "158":{
-        "Rank":154,
         "Country":"Monaco",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "159":{
-        "Rank":154,
         "Country":"Montenegro",
-        "GDP_USD_billion":8.01,
+        "GDP_USD_million":"8,010",
         "Year":"2024"
     },
     "160":{
-        "Rank":155,
         "Country":"Bermuda",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "161":{
-        "Rank":155,
         "Country":"Liechtenstein",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "162":{
-        "Rank":155,
         "Country":"Maldives",
-        "GDP_USD_billion":7.2,
+        "GDP_USD_million":"7,199",
         "Year":"2024"
     },
     "163":{
-        "Rank":156,
         "Country":"Barbados",
-        "GDP_USD_billion":6.86,
+        "GDP_USD_million":"6,863",
         "Year":"2024"
     },
     "164":{
-        "Rank":157,
         "Country":"Cayman Islands",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "165":{
-        "Rank":157,
         "Country":"South Sudan",
-        "GDP_USD_billion":6.52,
+        "GDP_USD_million":"6,517",
         "Year":"2024"
     },
     "166":{
-        "Rank":158,
         "Country":"French Polynesia",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "167":{
-        "Rank":158,
         "Country":"Fiji",
-        "GDP_USD_billion":5.8,
+        "GDP_USD_million":"5,801",
         "Year":"2024"
     },
     "168":{
-        "Rank":159,
         "Country":"Eswatini",
-        "GDP_USD_billion":5.08,
+        "GDP_USD_million":"5,085",
         "Year":"2024"
     },
     "169":{
-        "Rank":160,
         "Country":"Liberia",
-        "GDP_USD_billion":4.75,
+        "GDP_USD_million":"4,754",
         "Year":"2024"
     },
     "170":{
-        "Rank":161,
         "Country":"Sierra Leone",
-        "GDP_USD_billion":4.56,
+        "GDP_USD_million":"4,558",
         "Year":"2024"
     },
     "171":{
-        "Rank":162,
         "Country":"Djibouti",
-        "GDP_USD_billion":4.36,
+        "GDP_USD_million":"4,364",
         "Year":"2024"
     },
     "172":{
-        "Rank":163,
         "Country":"Suriname",
-        "GDP_USD_billion":4.34,
+        "GDP_USD_million":"4,337",
         "Year":"2024"
     },
     "173":{
-        "Rank":164,
         "Country":"Aruba",
-        "GDP_USD_billion":4.07,
+        "GDP_USD_million":"4,069",
         "Year":"2024"
     },
     "174":{
-        "Rank":165,
         "Country":"Andorra",
-        "GDP_USD_billion":3.9,
+        "GDP_USD_million":"3,897",
         "Year":"2024"
     },
     "175":{
-        "Rank":166,
         "Country":"Belize",
-        "GDP_USD_billion":3.3,
+        "GDP_USD_million":"3,296",
         "Year":"2024"
     },
     "176":{
-        "Rank":167,
         "Country":"Bhutan",
-        "GDP_USD_billion":3.11,
+        "GDP_USD_million":"3,110",
         "Year":"2024"
     },
     "177":{
-        "Rank":168,
         "Country":"Burundi",
-        "GDP_USD_billion":3.08,
+        "GDP_USD_million":"3,075",
         "Year":"2024"
     },
     "178":{
-        "Rank":169,
         "Country":"Cura\u00e7ao",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "179":{
-        "Rank":169,
         "Country":"Greenland",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "180":{
-        "Rank":169,
         "Country":"Central African Republic",
-        "GDP_USD_billion":2.81,
+        "GDP_USD_million":"2,810",
         "Year":"2024"
     },
     "181":{
-        "Rank":170,
         "Country":"Cape Verde",
-        "GDP_USD_billion":2.72,
+        "GDP_USD_million":"2,718",
         "Year":"2024"
     },
     "182":{
-        "Rank":171,
         "Country":"Gambia",
-        "GDP_USD_billion":2.69,
+        "GDP_USD_million":"2,694",
         "Year":"2024"
     },
     "183":{
-        "Rank":172,
         "Country":"Saint Lucia",
-        "GDP_USD_billion":2.58,
+        "GDP_USD_million":"2,582",
         "Year":"2024"
     },
     "184":{
-        "Rank":173,
         "Country":"Lesotho",
-        "GDP_USD_billion":2.4,
+        "GDP_USD_million":"2,395",
         "Year":"2024"
     },
     "185":{
-        "Rank":174,
         "Country":"Eritrea",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "186":{
-        "Rank":174,
         "Country":"Zanzibar",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "187":{
-        "Rank":174,
         "Country":"Seychelles",
-        "GDP_USD_billion":2.2,
+        "GDP_USD_million":"2,203",
         "Year":"2024"
     },
     "188":{
-        "Rank":175,
         "Country":"Guinea-Bissau",
-        "GDP_USD_billion":2.15,
+        "GDP_USD_million":"2,151",
         "Year":"2024"
     },
     "189":{
-        "Rank":176,
         "Country":"Antigua and Barbuda",
-        "GDP_USD_billion":2.13,
+        "GDP_USD_million":"2,127",
         "Year":"2024"
     },
     "190":{
-        "Rank":177,
         "Country":"San Marino",
-        "GDP_USD_billion":2.03,
+        "GDP_USD_million":"2,033",
         "Year":"2024"
     },
     "191":{
-        "Rank":178,
         "Country":"East Timor",
-        "GDP_USD_billion":1.99,
+        "GDP_USD_million":"1,992",
         "Year":"2024"
     },
     "192":{
-        "Rank":179,
         "Country":"Solomon Islands",
-        "GDP_USD_billion":1.71,
+        "GDP_USD_million":"1,707",
         "Year":"2024"
     },
     "193":{
-        "Rank":180,
         "Country":"Sint Maarten",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "194":{
-        "Rank":180,
         "Country":"Comoros",
-        "GDP_USD_billion":1.42,
+        "GDP_USD_million":"1,422",
         "Year":"2024"
     },
     "195":{
-        "Rank":181,
         "Country":"Grenada",
-        "GDP_USD_billion":1.41,
+        "GDP_USD_million":"1,406",
         "Year":"2024"
     },
     "196":{
-        "Rank":182,
         "Country":"Turks and Caicos Islands",
-        "GDP_USD_billion":null,
+        "GDP_USD_million":null,
         "Year":null
     },
     "197":{
-        "Rank":182,
         "Country":"Vanuatu",
-        "GDP_USD_billion":1.29,
+        "GDP_USD_million":"1,289",
         "Year":"2024"
     },
     "198":{
-        "Rank":183,
         "Country":"Saint Kitts and Nevis",
-        "GDP_USD_billion":1.13,
+        "GDP_USD_million":"1,134",
         "Year":"2024"
     },
     "199":{
-        "Rank":184,
         "Country":"Saint Vincent and the Grenadines",
-        "GDP_USD_billion":1.13,
+        "GDP_USD_million":"1,128",
         "Year":"2024"
     },
     "200":{
-        "Rank":185,
         "Country":"Samoa",
-        "GDP_USD_billion":1.02,
+        "GDP_USD_million":"1,024",
         "Year":"2024"
     },
     "201":{
-        "Rank":186,
         "Country":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-        "GDP_USD_billion":0.75,
+        "GDP_USD_million":"751",
         "Year":"2024"
     },
     "202":{
-        "Rank":187,
         "Country":"Dominica",
-        "GDP_USD_billion":0.71,
+        "GDP_USD_million":"708",
         "Year":"2024"
     },
     "203":{
-        "Rank":188,
         "Country":"Tonga",
-        "GDP_USD_billion":0.58,
+        "GDP_USD_million":"581",
         "Year":"2024"
     },
     "204":{
-        "Rank":189,
         "Country":"Micronesia",
-        "GDP_USD_billion":0.48,
+        "GDP_USD_million":"484",
         "Year":"2024"
     },
     "205":{
-        "Rank":190,
         "Country":"Kiribati",
-        "GDP_USD_billion":0.31,
+        "GDP_USD_million":"311",
         "Year":"2024"
     },
     "206":{
-        "Rank":191,
         "Country":"Palau",
-        "GDP_USD_billion":0.31,
+        "GDP_USD_million":"308",
         "Year":"2024"
     },
     "207":{
-        "Rank":192,
         "Country":"Marshall Islands",
-        "GDP_USD_billion":0.3,
+        "GDP_USD_million":"305",
         "Year":"2024"
     },
     "208":{
-        "Rank":193,
         "Country":"Nauru",
-        "GDP_USD_billion":0.16,
+        "GDP_USD_million":"161",
         "Year":"2024"
     },
     "209":{
-        "Rank":194,
         "Country":"Tuvalu",
-        "GDP_USD_billion":0.07,
+        "GDP_USD_million":"66",
         "Year":"2024"
     }
 }
