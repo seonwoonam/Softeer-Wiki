@@ -11,6 +11,8 @@ import multiprocessing as mp
 import numpy as np
 import os
 
+# datetime을 활용하여 구현한 log 파일을 찍는 클래스
+# start를 하면 로그파일이 열리게 되고, end를 하면 로그를 찍는것을 중단하게 된다.
 class Logger:
     def __init__(self):
         self.logfile_name = 'etl_project_log.txt'
@@ -44,10 +46,8 @@ class Logger:
 # raw_data를 json 형태로 저장
 def extract_data():
     url = "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29"
-    response = requests.get(url)
     raw_data = []
 
-   
     with requests.get(url, stream = True) as response:
         response.raise_for_status()
         with open('file.html','wb') as file :
@@ -88,7 +88,7 @@ def extract_data():
 
 
 # 국가별 GDP 단위를 million USD -> billion USD 변환
-# Region을 찾아 입력
+# 각 나라의 Region을 찾아 입력
 def transform_data(df):
     print("transform_data : PID {pid}".format(pid = os.getpid()))
     df["GDP_USD_billion"] = df["GDP_USD_million"].replace(",","",regex = True).astype(float, errors="ignore").div(1000).round(2)
@@ -124,8 +124,11 @@ def convert_name_to_continent(country_name):
             return None
         
 def load_data(dataframe):
+    print()
     print_screen(dataframe)
 
+# GDP가 100B USD 이상인 국가와 
+# 각 Region별로 top5 국가의 GDP 평균을 출력하는 함수.
 def print_screen(df):
     print("<< GDP가 100B USD이상이 되는 국가만 출력 >>")
     print()
@@ -146,6 +149,9 @@ def parallel_dataframe(df, func, num_cores = 8):
     return df
 
 # 전체 과정의 함수
+# 각각의 과정 속에서 로그를 찍음.
+# 데이터의 사이즈가 클 경우를 대비해 parallel_dataframe 메소드를 사용하여 
+# 멀티프로세싱으로 데이터 transform을 진행
 def ETL():
     logger = Logger()
     logger.start()
